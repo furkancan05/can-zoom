@@ -6,7 +6,7 @@ A custom component for React JS developers that you can zoom images during hover
 
 ## Demo
 
-[Demo usage](https://google.com)
+[Demo usage](https://can-zoom-demo.vercel.app/)
 
 ## Usage
 
